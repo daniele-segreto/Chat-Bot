@@ -12,7 +12,7 @@ document.getElementById('send-button').addEventListener('click', function () {
 
         var messageSender = document.createElement('div');
         messageSender.className = 'message-sender';
-        messageSender.textContent = 'You';
+        messageSender.textContent = 'Tu';
 
         var messageContentElement = document.createElement('div');
         messageContentElement.className = 'message-content';
